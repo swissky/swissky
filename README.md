@@ -51,16 +51,11 @@ Migration tooling for moving complete WordPress sites to EmDash — custom post 
 </tr>
 </table>
 
-## Things I build
+Also upstream: [Zendure-HA](https://github.com/Zendure/Zendure-HA) (Home Assistant solar integration) and [cf-images](https://github.com/av3nger/cf-images) (Cloudflare Images for WordPress).
 
-| Project | What it is | Stack |
-| --- | --- | --- |
-| **this:matters Cache** | Cache SaaS for WordPress — control plane as a Cloudflare Worker, plugin in PHP | Workers · PHP |
-| **analyze.swiss** | Privacy-first analytics, made in Switzerland | TypeScript |
-| **Marktindex.ch** | Automated Swiss business & finance news | Workers · TypeScript |
-| **StromFlow** | Solar & energy monitoring for iOS | Swift |
-| **Solar Manager Bridges** | Home Assistant add-ons bridging Zendure SolarFlow | Python |
-| **Techgarage** | Swiss tech news — site, app & live ticker | Swift · PHP |
+## At the agency
+
+Most of my day-to-day work is closed source at [this:matters](https://thismatters.agency): a WordPress caching SaaS built on Cloudflare Workers, privacy-first analytics, automated news publishing, and client sites across Switzerland.
 
 ## Stack
 
@@ -82,8 +77,8 @@ Migration tooling for moving complete WordPress sites to EmDash — custom post 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=swissky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&count_private=true">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=swissky&show_icons=true&hide_border=true&bg_color=00000000&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=swissky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=swissky&show_icons=true&hide_border=true&bg_color=00000000">
 </picture>
 
 <picture>
