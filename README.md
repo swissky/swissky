@@ -76,15 +76,9 @@ Most of my day-to-day work is closed source at [this:matters](https://thismatter
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=swissky&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=swissky&show_icons=true&hide_border=true&bg_color=00000000">
-</picture>
+<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=swissky&hide_border=true&background=00000000&theme=default&date_format=j%20M%5B%20Y%5D" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=swissky&layout=compact&theme=github_dark&hide_border=true&bg_color=00000000">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swissky&layout=compact&hide_border=true&bg_color=00000000">
-</picture>
+<img alt="Contribution graph" src="https://ghchart.rshah.org/2f81f7/swissky" width="100%" />
 
 </div>
 
