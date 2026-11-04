@@ -1,93 +1,68 @@
-<div align="center">
+<a href="https://kevinkyburz.ch"><img src="./assets/header.svg" alt="Kevin Kyburz — Writer. Builder. Curious by default. Founder of this:matters, EmDash maintainer." width="100%" /></a>
 
-# Kevin Kyburz
+<p align="center">
+  <a href="https://kevinkyburz.ch"><img alt="kevinkyburz.ch" src="https://img.shields.io/badge/kevinkyburz.ch-0c0916?style=for-the-badge&logo=astro&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://thismatters.agency"><img alt="this:matters" src="https://img.shields.io/badge/this%3Amatters-622aff?style=for-the-badge" /></a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/swissky/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://x.com/swissky"><img alt="X" src="https://img.shields.io/badge/@swissky-000000?style=for-the-badge&logo=x&logoColor=white" /></a>&nbsp;&nbsp;
+  <a href="https://bsky.app/profile/swiss.ky"><img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-1185fe?style=for-the-badge&logo=bluesky&logoColor=white" /></a>
+</p>
 
-**Building for the web from Switzerland 🇨🇭**
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-Founder @ [this:matters](https://thismatters.agency) · Web & Marketing Agency
+I've been writing about tech since 2010 and building on **WordPress** for almost as long. Today I run **[this:matters](https://thismatters.agency)**, a Swiss web & marketing agency for WordPress sites and WooCommerce shops. I also help maintain **[EmDash](https://github.com/emdash-cms/emdash)**, the open-source CMS for Astro and Cloudflare that picks up where WordPress leaves off.
 
-[![Website](https://img.shields.io/badge/thismatters.agency-0a0a0a?style=for-the-badge&logo=safari&logoColor=white)](https://thismatters.agency)
-[![GitHub followers](https://img.shields.io/github/followers/swissky?style=for-the-badge&logo=github&labelColor=0a0a0a&color=2f81f7)](https://github.com/swissky?tab=followers)
+<p align="center">
+  <a href="https://thismatters.agency"><img src="./assets/card-thismatters.svg" alt="this:matters — Founder & CEO since 2023. Swiss web & marketing agency." width="48%" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/emdash-cms/emdash"><img src="./assets/card-emdash.svg" alt="EmDash — Maintainer since 2026. Merged PRs, stars and forks." width="48%" /></a>
+</p>
 
-</div>
+<img src="./assets/divider.svg" alt="" width="100%" />
 
----
-
-## What I do
-
-I run **this:matters**, a Swiss web and marketing agency — and spend my open-source time making the modern web faster and easier to migrate to. My happy place is where **WordPress meets its successor** and where **everything runs on Cloudflare Workers**.
-
-```ts
-const kevin = {
-	location: "Switzerland",
-	company: "this:matters",
-	focus: ["EmDash CMS", "Cloudflare Workers", "WordPress performance", "web migrations"],
-	stack: ["TypeScript", "Astro", "PHP", "Swift", "Python"],
-	platform: "Cloudflare all the things — Workers, D1, R2, KV, Workflows",
-	currently: "50+ upstream PRs into EmDash, the Astro-native CMS",
-};
-```
-
-## Open Source
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### [EmDash CMS](https://github.com/emdash-cms/emdash)
+### ✍️ &nbsp;Latest writing
 
-The spiritual successor to WordPress — a full-stack TypeScript CMS on Astro + Cloudflare (D1/R2/Workers).
-
-**35+ merged PRs** across core: i18n & hreflang, plugin platform, security fixes, D1 session handling, visual editing, backups, performance & caching.
+<!-- blog:start -->
+<code>01 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-4/">EmDash 1.4: a tidier admin and fewer lost edits</a><br />
+<code>21 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-cloudflare-cache/">A cold cache, not a cold start: what really slows EmDash down o…</a><br />
+<code>15 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-3/">EmDash 1.3: better for teams, more thorough WordPress imports</a><br />
+<code>09 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-feedback/">One tweet, two releases: how feedback from the WordPress world…</a>
+<!-- blog:end -->
 
 </td>
 <td width="50%" valign="top">
 
-### [wp-emdash](https://github.com/emdash-cms/wp-emdash)
+### 🔀 &nbsp;Just merged in EmDash
 
-Migration tooling for moving complete WordPress sites to EmDash — custom post types, ACF fields, SEO metadata, taxonomies, comments, media. One click, clean import.
+<!-- prs:start -->
+<code>#4328</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4328">Validate emdash() options</a><br />
+<code>#4619</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4619">Return 503 instead of 401 when external-auth user lookup fails</a><br />
+<code>#4591</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4591">Respect Astro base in Archives and Recent Posts widgets and hre…</a><br />
+<code>#4610</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4610">Page snapshot table reads under D1's 50 MB result limit</a>
+<!-- prs:end -->
 
 </td>
 </tr>
 </table>
 
-Also upstream: [Zendure-HA](https://github.com/Zendure/Zendure-HA) (Home Assistant solar integration) and [cf-images](https://github.com/av3nger/cf-images) (Cloudflare Images for WordPress).
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-## At the agency
+### The story so far
 
-Most of my day-to-day work is closed source at [this:matters](https://thismatters.agency): a WordPress caching SaaS built on Cloudflare Workers, privacy-first analytics, automated news publishing, and client sites across Switzerland.
+```diff
+  2010   Started my first blog during military service. The domain gave me "@swissky".
+  2014   Weekly tech column in Blick am Abend, in print and online, until 2018.
+  2016   Launched Travelhackers. Started teaching digital marketing at Digicomp.
+  2019   Co-founded Techgarage: independent tech reviews and explainers.
++ 2023   Founded this:matters.
++ 2026   Became an EmDash maintainer.
+```
 
-## Stack
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflareworkers&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Home Assistant](https://img.shields.io/badge/Home_Assistant-18BCF2?style=flat-square&logo=homeassistant&logoColor=white)
-
-</div>
-
-## Stats
-
-<div align="center">
-
-<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=swissky&hide_border=true&background=00000000&theme=default&date_format=j%20M%5B%20Y%5D" />
-
-<img alt="Contribution graph" src="https://ghchart.rshah.org/2f81f7/swissky" width="100%" />
-
-</div>
-
----
-
-<div align="center">
-
-*The best migration is the one your users never notice.*
-
-</div>
-
-<!-- profile readme -->
+<p align="center">
+  <img alt="Contribution graph" src="https://ghchart.rshah.org/622aff/swissky" width="100%" />
+  <br /><br />
+  <sub><b>Lauerz, Switzerland</b> · Rooted here. Connected everywhere.</sub>
+</p>
