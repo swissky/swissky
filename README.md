@@ -38,10 +38,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### 🔀 &nbsp;Just merged in EmDash
 
 <!-- prs:start -->
-<code>#4328</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4328">Validate emdash() options</a><br />
-<code>#4619</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4619">Return 503 instead of 401 when external-auth user lookup fails</a><br />
-<code>#4591</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4591">Respect Astro base in Archives and Recent Posts widgets and hre…</a><br />
-<code>#4610</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4610">Page snapshot table reads under D1's 50 MB result limit</a>
+<code>#4655</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4655">Accept imagePlaceholders in emdash() config validation</a><br />
+<code>#4641</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4641">Validate emdash() options with a Zod schema</a><br />
+<code>#4611</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4611">Check that the inactive &lt;picture&gt; is hidden for dark variants</a><br />
+<code>#4616</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4616">Run non-JS pnpm entrypoints directly</a>
 <!-- prs:end -->
 
 </td>
