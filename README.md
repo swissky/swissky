@@ -38,10 +38,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### 🔀 &nbsp;Just merged in EmDash
 
 <!-- prs:start -->
-<code>#4655</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4655">Accept imagePlaceholders in emdash() config validation</a><br />
-<code>#4641</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4641">Validate emdash() options with a Zod schema</a><br />
-<code>#4611</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4611">Check that the inactive &lt;picture&gt; is hidden for dark variants</a><br />
-<code>#4616</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4616">Run non-JS pnpm entrypoints directly</a>
+<code>#4649</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4649">Add non-blocking tsrs shadow typecheck</a><br />
+<code>#4631</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4631">Cache translatable byline field values per request</a><br />
+<code>#2156</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/2156">Built-in SMTP email transport for generic SMTP credentials</a><br />
+<code>#3716</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/3716">Start new sites in staging, hidden from search engines until th…</a>
 <!-- prs:end -->
 
 </td>
