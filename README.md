@@ -38,10 +38,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### 🔀 &nbsp;Just merged in EmDash
 
 <!-- prs:start -->
-<code>#4671</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4671">Wait for the field dialog to settle before measuring switch ali…</a><br />
-<code>#4649</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4649">Add non-blocking tsrs shadow typecheck</a><br />
-<code>#4631</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4631">Cache translatable byline field values per request</a><br />
-<code>#2156</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/2156">Built-in SMTP email transport for generic SMTP credentials</a>
+<code>#4684</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4684">Wait for the byline save before reading custom fields back</a><br />
+<code>#4595</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4595">Make Buttons blocks editable in the rich text editor</a><br />
+<code>#4682</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4682">Explain that emdash migrate does not load .env files</a><br />
+<code>#4674</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4674">Include the dev server output when a site fails to boot</a>
 <!-- prs:end -->
 
 </td>
