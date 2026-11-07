@@ -38,10 +38,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### 🔀 &nbsp;Just merged in EmDash
 
 <!-- prs:start -->
+<code>#4697</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4697">Match slug-change redirects with or without a trailing slash</a><br />
 <code>#4684</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4684">Wait for the byline save before reading custom fields back</a><br />
 <code>#4595</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4595">Make Buttons blocks editable in the rich text editor</a><br />
-<code>#4682</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4682">Explain that emdash migrate does not load .env files</a><br />
-<code>#4674</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4674">Include the dev server output when a site fails to boot</a>
+<code>#4682</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4682">Explain that emdash migrate does not load .env files</a>
 <!-- prs:end -->
 
 </td>
