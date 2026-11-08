@@ -49,13 +49,17 @@ const truncate = (s, max = 64) => (s.length > max ? `${s.slice(0, max - 1).trimE
 const capitalize = (s) => s.charAt(0).toUpperCase() + s.slice(1);
 
 // One line per entry: a fixed-width chip (date or PR number), then the linked title.
-const entry = (chip, title, link) =>
-	`<code>${escapeHtml(chip)}</code>&nbsp; <a href="${link}">${escapeHtml(truncate(title))}</a>`;
+const entry = (chip, title, link, max) =>
+	`<code>${escapeHtml(chip)}</code>&nbsp; <a href="${link}">${escapeHtml(truncate(title, max))}</a>`;
 
 const sections = {
 	blog: async () =>
 		(await rss("https://kevinkyburz.ch/rss.xml", 4))
-			.map((p) => entry(shortDate(p.date), p.title, p.link))
+			.map((p) => {
+				// Each post exists in English (/blog/…) and German (/de/blog/…).
+				const de = p.link.replace("https://kevinkyburz.ch/blog/", "https://kevinkyburz.ch/de/blog/");
+				return `${entry(shortDate(p.date), p.title, p.link, 56)} <sub><a href="${p.link}">EN</a> · <a href="${de}">DE</a></sub>`;
+			})
 			.join("<br />\n"),
 	prs: async () => {
 		const { items } = await search(`org:emdash-cms author:${USER} is:pr is:merged`, "&sort=updated&per_page=4");

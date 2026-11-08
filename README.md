@@ -26,10 +26,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### ✍️ &nbsp;Latest writing
 
 <!-- blog:start -->
-<code>01 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-4/">EmDash 1.4: a tidier admin and fewer lost edits</a><br />
-<code>21 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-cloudflare-cache/">A cold cache, not a cold start: what really slows EmDash down o…</a><br />
-<code>15 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-3/">EmDash 1.3: better for teams, more thorough WordPress imports</a><br />
-<code>09 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-feedback/">One tweet, two releases: how feedback from the WordPress world…</a>
+<code>01 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-4/">EmDash 1.4: a tidier admin and fewer lost edits</a> <sub><a href="https://kevinkyburz.ch/blog/emdash-1-4/">EN</a> · <a href="https://kevinkyburz.ch/de/blog/emdash-1-4/">DE</a></sub><br />
+<code>21 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-cloudflare-cache/">A cold cache, not a cold start: what really slows EmDas…</a> <sub><a href="https://kevinkyburz.ch/blog/emdash-cloudflare-cache/">EN</a> · <a href="https://kevinkyburz.ch/de/blog/emdash-cloudflare-cache/">DE</a></sub><br />
+<code>15 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-3/">EmDash 1.3: better for teams, more thorough WordPress i…</a> <sub><a href="https://kevinkyburz.ch/blog/emdash-1-3/">EN</a> · <a href="https://kevinkyburz.ch/de/blog/emdash-1-3/">DE</a></sub><br />
+<code>09 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-feedback/">One tweet, two releases: how feedback from the WordPres…</a> <sub><a href="https://kevinkyburz.ch/blog/emdash-feedback/">EN</a> · <a href="https://kevinkyburz.ch/de/blog/emdash-feedback/">DE</a></sub>
 <!-- blog:end -->
 
 </td>
