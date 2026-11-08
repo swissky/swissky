@@ -55,11 +55,8 @@ const entry = (chip, title, link, max) =>
 const sections = {
 	blog: async () =>
 		(await rss("https://kevinkyburz.ch/rss.xml", 4))
-			.map((p) => {
-				// Each post exists in English (/blog/…) and German (/de/blog/…).
-				const de = p.link.replace("https://kevinkyburz.ch/blog/", "https://kevinkyburz.ch/de/blog/");
-				return `${entry(shortDate(p.date), p.title, p.link, 56)} <sub><a href="${p.link}">EN</a> · <a href="${de}">DE</a></sub>`;
-			})
+			// Always link the English version (/blog/…), never /de/blog/….
+			.map((p) => entry(shortDate(p.date), p.title, p.link.replace("/de/blog/", "/blog/")))
 			.join("<br />\n"),
 	prs: async () => {
 		const { items } = await search(`org:emdash-cms author:${USER} is:pr is:merged`, "&sort=updated&per_page=4");
