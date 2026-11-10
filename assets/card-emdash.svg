@@ -20,12 +20,12 @@
   
     <g transform="translate(24 172)">
       <rect width="122.66666666666667" height="68" rx="12" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".10"/>
-      <text x="14" y="32" font-size="22" font-weight="700" fill="#fff">210</text>
+      <text x="14" y="32" font-size="22" font-weight="700" fill="#fff">211</text>
       <text x="14" y="52" font-size="12" fill="#9d97b3">merged PRs</text>
     </g>
     <g transform="translate(158.66666666666669 172)">
       <rect width="122.66666666666667" height="68" rx="12" fill="#fff" fill-opacity=".05" stroke="#fff" stroke-opacity=".10"/>
-      <text x="14" y="32" font-size="22" font-weight="700" fill="#fff">14.3k</text>
+      <text x="14" y="32" font-size="22" font-weight="700" fill="#fff">14.4k</text>
       <text x="14" y="52" font-size="12" fill="#9d97b3">GitHub stars</text>
     </g>
     <g transform="translate(293.33333333333337 172)">
