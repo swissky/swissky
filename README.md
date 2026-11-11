@@ -26,10 +26,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### ✍️ &nbsp;Latest writing
 
 <!-- blog:start -->
+<code>10 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-durable-object/">Up to ten times faster without a cache: EmDash in a Durable Obj…</a><br />
 <code>01 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-4/">EmDash 1.4: a tidier admin and fewer lost edits</a><br />
 <code>21 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-cloudflare-cache/">A cold cache, not a cold start: what really slows EmDash down o…</a><br />
-<code>15 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-3/">EmDash 1.3: better for teams, more thorough WordPress imports</a><br />
-<code>09 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-feedback/">One tweet, two releases: how feedback from the WordPress world…</a>
+<code>15 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-3/">EmDash 1.3: better for teams, more thorough WordPress imports</a>
 <!-- blog:end -->
 
 </td>
@@ -38,10 +38,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### 🔀 &nbsp;Just merged in EmDash
 
 <!-- prs:start -->
+<code>#4694</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4694">Reject robots.txt settings when the site overrides /robots.txt</a><br />
 <code>#4741</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4741">Read plugin KV from options in the crash-recovery test</a><br />
 <code>#4697</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4697">Match slug-change redirects with or without a trailing slash</a><br />
-<code>#4684</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4684">Wait for the byline save before reading custom fields back</a><br />
-<code>#4595</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4595">Make Buttons blocks editable in the rich text editor</a>
+<code>#4684</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4684">Wait for the byline save before reading custom fields back</a>
 <!-- prs:end -->
 
 </td>
