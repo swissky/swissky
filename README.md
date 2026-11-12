@@ -26,10 +26,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### ✍️ &nbsp;Latest writing
 
 <!-- blog:start -->
+<code>12 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-5/">EmDash 1.5: Real-Time Co-Editing, a Redesigned Block Editor, Na…</a><br />
 <code>10 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-durable-object/">Up to ten times faster without a cache: EmDash in a Durable Obj…</a><br />
 <code>01 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-4/">EmDash 1.4: a tidier admin and fewer lost edits</a><br />
-<code>21 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-cloudflare-cache/">A cold cache, not a cold start: what really slows EmDash down o…</a><br />
-<code>15 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-3/">EmDash 1.3: better for teams, more thorough WordPress imports</a>
+<code>21 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-cloudflare-cache/">A cold cache, not a cold start: what really slows EmDash down o…</a>
 <!-- blog:end -->
 
 </td>
