@@ -38,10 +38,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### 🔀 &nbsp;Just merged in EmDash
 
 <!-- prs:start -->
+<code>#4911</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4911">Cache media files in the route cache</a><br />
 <code>#4735</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4735">Cache media files in the route cache</a><br />
 <code>#4696</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4696">Link blocked embed iframes instead of rendering an empty frame</a><br />
-<code>#4694</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4694">Reject robots.txt settings when the site overrides /robots.txt</a><br />
-<code>#4741</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4741">Read plugin KV from options in the crash-recovery test</a>
+<code>#4694</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4694">Reject robots.txt settings when the site overrides /robots.txt</a>
 <!-- prs:end -->
 
 </td>
