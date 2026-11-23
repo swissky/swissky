@@ -26,10 +26,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### ✍️ &nbsp;Latest writing
 
 <!-- blog:start -->
+<code>23 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-cloudflare-waf">Rejected Before It Costs: Cloudflare WAF Rules for EmDash</a><br />
+<code>23 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-6">EmDash 1.6: Images Cached for a Year, 404s Without Rendering, P…</a><br />
 <code>12 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-5">EmDash 1.5: Real-Time Co-Editing, a Redesigned Block Editor, Na…</a><br />
-<code>10 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-durable-object">Up to ten times faster without a cache: EmDash in a Durable Obj…</a><br />
-<code>01 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-1-4">EmDash 1.4: a tidier admin and fewer lost edits</a><br />
-<code>21 Oct</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-cloudflare-cache">A cold cache, not a cold start: what really slows EmDash down o…</a>
+<code>10 Nov</code>&nbsp; <a href="https://kevinkyburz.ch/blog/emdash-durable-object">Up to ten times faster without a cache: EmDash in a Durable Obj…</a>
 <!-- blog:end -->
 
 </td>
