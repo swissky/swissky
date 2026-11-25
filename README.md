@@ -38,10 +38,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### 🔀 &nbsp;Just merged in EmDash
 
 <!-- prs:start -->
+<code>#5032</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/5032">Reuse the date formatter in the blog templates</a><br />
 <code>#4994</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4994">Tag detail-page misses with their collection</a><br />
 <code>#4999</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4999">Drop the stale cron lock write from cold starts</a><br />
-<code>#4911</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4911">Cache media files in the route cache</a><br />
-<code>#4735</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4735">Cache media files in the route cache</a>
+<code>#4911</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4911">Cache media files in the route cache</a>
 <!-- prs:end -->
 
 </td>
