@@ -38,10 +38,10 @@ I've been writing about tech since 2010 and building on **WordPress** for almost
 ### 🔀 &nbsp;Just merged in EmDash
 
 <!-- prs:start -->
+<code>#4587</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4587">Invalidate cached pages from the admin, the CLI and the REST API</a><br />
 <code>#4701</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4701">Optimize stored media without a build-time site URL</a><br />
 <code>#5013</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/5013">Surface content query errors as 500 instead of 404</a><br />
-<code>#5032</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/5032">Reuse the date formatter in the blog templates</a><br />
-<code>#4994</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/4994">Tag detail-page misses with their collection</a>
+<code>#5032</code>&nbsp; <a href="https://github.com/emdash-cms/emdash/pull/5032">Reuse the date formatter in the blog templates</a>
 <!-- prs:end -->
 
 </td>
